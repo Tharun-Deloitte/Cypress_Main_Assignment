@@ -1,0 +1,23 @@
+{
+  "firstname": "Nara",
+  "lastname":"Tharun",
+  "email":"tharunnara46135@gmail.com",
+  "password":"N@R@04062001",
+  "invalidpassword":"n@r@04062001",
+  "invalidemail":"sfvfvsfv",
+  "requeriedfield":"This is a required field.",
+  "emailerror":"Please enter a valid email address",
+  "W_Jacket1":["Jade Yoga Jacket","$32.00","1"] ,
+  "W_Jacket2":["Juno Jacket","$77.00","1"] ,
+  "W_Tee1":["Desiree Fitness Tee","$24.00","1"],
+  "M_Hoodie":["Teton Pullover Hoodie","$70.00","2"],
+  "G_Bag1":["Push It Messenger Bag","$45.00","1"],
+
+  "Address4City":"Tadipatri",
+  "Address4Phoneno":"9515231371",
+  "Address4Pin":"515411",
+  "Address4Country":"IN",
+  "Address4Region":"Andhra Pradesh",
+  "Address4Street":"3/494-1-2"
+
+}
